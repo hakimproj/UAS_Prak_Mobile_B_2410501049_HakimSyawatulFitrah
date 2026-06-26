@@ -1,2 +1,4 @@
-# UAS_Prak_Mobile_B_2410501049_HakimSyawatulFitrah
+Nama  : Hakim Syawatul Fitrah
+Nim   : 2410501049
+Kelas : B
 
