@@ -40,7 +40,7 @@ Berikut adalah tampilan antarmuka dari aplikasi Flona:
 <img src="https://github.com/user-attachments/assets/427f42ca-0035-4b58-bba3-3e6203681b1e" alt="Pencarian" width="300" />
 
 ### 7. Profile
-<img width="1080" height="2340" alt="profile" src="https://github.com/user-attachments/assets/d167a75d-de06-4cb9-b9e3-cce113d64abf" alt="Profile" width="300" />
+<img src="https://github.com/user-attachments/assets/d167a75d-de06-4cb9-b9e3-cce113d64abf" alt="Profile" width="300" />
 
 
 ---
