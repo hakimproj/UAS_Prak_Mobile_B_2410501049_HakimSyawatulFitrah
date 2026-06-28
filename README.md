@@ -39,8 +39,9 @@ Berikut adalah tampilan antarmuka dari aplikasi Flona:
 ### 6. Pencarian
 <img src="https://github.com/user-attachments/assets/427f42ca-0035-4b58-bba3-3e6203681b1e" alt="Pencarian" width="300" />
 
-### 7. Profil
-<img src="https://github.com/user-attachments/assets/a1f4a867-afcd-4c93-a82c-2720992895e1" alt="Profil" width="300" />
+### 7. Profile
+<img width="1080" height="2340" alt="profile" src="https://github.com/user-attachments/assets/d167a75d-de06-4cb9-b9e3-cce113d64abf" alt="Profile" width="300" />
+
 
 ---
 
@@ -49,3 +50,6 @@ Berikut adalah tampilan antarmuka dari aplikasi Flona:
 2. Buka project menggunakan **Android Studio**.
 3. Tunggu proses **Gradle Sync** selesai.
 4. Jalankan aplikasi pada emulator atau perangkat Android fisik (disarankan menggunakan perangkat fisik dengan koneksi internet aktif).
+
+## Catatan 
+1. untuk mengubah tema aplikasi user harus masuk ke page profile terlebih dahulu
