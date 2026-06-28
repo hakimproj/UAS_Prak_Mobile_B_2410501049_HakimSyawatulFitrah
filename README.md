@@ -1,7 +1,6 @@
 # Flona
 Flona (gabungan dari **Flora** dan **Fauna**) adalah aplikasi Android katalog flora dan fauna endemik Indonesia. Aplikasi ini dibuat sebagai proyek UAS Praktikum Mobile Programming.
 
----
 
 ## Identitas
 - **Nama:** Hakim Syawatul Fitrah
@@ -9,12 +8,10 @@ Flona (gabungan dari **Flora** dan **Fauna**) adalah aplikasi Android katalog fl
 - **Kelas:** B
 - **Mata Kuliah:** Praktikum Mobile Programming
 
----
 
 ## Tentang Aplikasi
 Flona menampilkan data flora dan fauna endemik Indonesia yang diambil langsung dari API publik, lengkap dengan informasi nama, nama latin, asal, sebaran, deskripsi, dan status konservasi (Aman / Terancam Punah). Pengguna dapat mencari data, melihat detail tiap spesies, serta menyimpan spesies favorit untuk diakses kembali secara offline.
 
----
 
 ## Screenshot Aplikasi
 
@@ -57,7 +54,6 @@ Berikut adalah tampilan antarmuka dari aplikasi Flona:
   </tr>
 </table>
 
----
 
 ## Cara Menjalankan
 1. Clone repository ini.
