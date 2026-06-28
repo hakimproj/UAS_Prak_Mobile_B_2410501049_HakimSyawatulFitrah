@@ -5,4 +5,7 @@
     <color name="card_title_bg">#FFFFFF</color>
     <color name="text_dark">#1C1B1F</color>
     <color name="white">#FFFFFF</color>
+    <color name="background_color">#FFFFFF</color>
+    <color name="surface_color">#FFFFFF</color>
+    <color name="text_primary">#0D1117</color>
 </resources>
