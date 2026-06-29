@@ -54,7 +54,7 @@ public class PencarianActivity extends AppCompatActivity {
     }
 
     private void loadAllData() {
-        EndemikRepository.getAllEndemik(new EndemikRepository.DataCallback() {
+        EndemikRepository.getAllEndemik(this, new EndemikRepository.DataCallback() {
             @Override
             public void onSuccess(List<Endemik> data) {
                 allData = data;

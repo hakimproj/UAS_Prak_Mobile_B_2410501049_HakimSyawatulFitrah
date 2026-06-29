@@ -4,10 +4,53 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+    <LinearLayout
+        android:id="@+id/region_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:padding="12dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Region:"
+            android:textStyle="bold"
+            android:textSize="14sp"
+            android:textColor="@color/text_color_dark"
+            android:layout_marginEnd="8dp" />
+
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/bg_spinner_region">
+
+            <Spinner
+                android:id="@+id/spinner_region"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:spinnerMode="dropdown" />
+
+            <ImageView
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_gravity="end|center_vertical"
+                android:src="@drawable/ic_dropdown"
+                android:contentDescription="Pilih region" />
+
+        </FrameLayout>
+
+    </LinearLayout>
+
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rv_list"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:layout_below="@id/region_container"
         android:padding="6dp"
         android:clipToPadding="false" />
 
