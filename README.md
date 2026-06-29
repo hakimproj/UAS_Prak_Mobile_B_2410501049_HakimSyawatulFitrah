@@ -20,7 +20,7 @@ Berikut adalah tampilan antarmuka dari aplikasi Flona:
 <img src="https://github.com/user-attachments/assets/cca0bbf1-87dd-4289-8cfa-2503d650fb6f" alt="Splash Screen" width="250" height="540" />
 
 ### 2. Home
-<img src="https://github.com/user-attachments/assets/47732205-4c68-462c-a0bf-3801eb127d1b" alt="Home" width="250" height="540" />
+<img src="https://github.com/user-attachments/assets/83b18fea-46b6-4b09-92cb-0c04351cb3c0" alt="Home" width="250" height="540" />
 
 ### 3. Home 2
 <img src="https://github.com/user-attachments/assets/91ae52d2-c341-49f3-9887-d95d80f35c28" alt="Home 2" width="250" height="540" />
